@@ -24,3 +24,9 @@ we should have a news page with what we are fictionally doing and form for signi
 
 OTHER IDEAS:
 add anything else you guys want here
+
+
+
+1/28 JACK : 
+
+i added bootstrap framework for css and js to make our lives easier with styling website https://getbootstrap.com/docs/5.0/getting-started/download/
