@@ -14,7 +14,7 @@ Sections of the site may include photos, product descriptions, rendering, compan
 
 
 JACK's IDEAS:
-lets call the company x
+lets call the company med tech (medical technology/communication)  
 we should have a home page with pictures and overview and option
 we should have an our services page with what we provide, zoom calls, apppoitment scheduling services
 we should have about page  where we say who we are as students (actually us) and then how we founded our fictional company
