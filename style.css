@@ -1,3 +1,25 @@
 body {
-	background-color: lightblue;
+	background-color: #12232E;
+}
+
+.jumbotron {
+	background-color: #EEFBFB;
+	text-color: black;
+}
+
+.home {
+	height: 400px;
+}
+
+.squaretabs {
+	margin-top: 35px;
+}
+
+.serviceandnews {
+	margin-top: 50px;
+}
+
+#carouselh1 {
+	font-size: 75px;
+	font-weight: bold;
 }

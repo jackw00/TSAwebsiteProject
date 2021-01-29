@@ -30,3 +30,7 @@ add anything else you guys want here
 1/28 JACK : 
 
 i added bootstrap framework for css and js to make our lives easier with styling website https://getbootstrap.com/docs/5.0/getting-started/download/
+
+pic 1:https://blog.zoom.us/wp-content/uploads/2020/03/zoom-for-telehealth.jpg
+pic 2:https://wallpaperaccess.com/healthcare-technology
+pic 3:https://wallpaperaccess.com/healthcare-technology
