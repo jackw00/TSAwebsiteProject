@@ -34,3 +34,7 @@ i added bootstrap framework for css and js to make our lives easier with styling
 pic 1:https://blog.zoom.us/wp-content/uploads/2020/03/zoom-for-telehealth.jpg
 pic 2:https://wallpaperaccess.com/healthcare-technology
 pic 3:https://wallpaperaccess.com/healthcare-technology
+
+https://www.publicdomainpictures.net/pictures/170000/velka/doctor-with-tablet.jpg
+https://www.publicdomainpictures.net/pictures/270000/velka/smartphone-call-answer-contact.jpg
+https://publicdomainpictures.net/pictures/330000/velka/corona-virus-1585192969fxl.jpg
