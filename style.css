@@ -103,7 +103,7 @@ footer {
 
 .news-article {
 	background-color: #203647 ;
-	color: #EEFBFB;
+	color:   #EEFBFB;
 	font-size: 8vw;
 }
 
@@ -117,4 +117,41 @@ footer {
 
 .news-body {
 	background-color: #203647;
+}
+
+.people {
+	color:  #EEFBFB;
+	background-color: #12232E ;
+}
+
+.home {
+	background-color: #EEFBFB;
+	transition: 0.75s;
+}
+
+.home:hover {
+	background-color: #203647;
+	color: #EEFBFB;
+}
+
+.services-change {
+	background-color: #12232E;
+}
+
+
+tr {
+	background-color: #12232E;
+	transition: 1s;
+}
+
+tr:hover {
+	background-color: #007CC7;
+}
+
+.news-change {
+	background-color: #007CC7;
+}
+
+.sources {
+	color: #EEFBFB;
 }
