@@ -103,8 +103,9 @@ footer {
 
 .news-article {
 	background-color: #203647 ;
-	color:   #EEFBFB;
+	color: #EEFBFB;
 	font-size: 8vw;
+	transition: 1s;
 }
 
 .news-header {
@@ -158,4 +159,33 @@ tr:hover {
 
 .img-header {
 	text-align: center;
+}
+
+.contact-form {
+	color: #EEFBFB;
+}
+
+.news-article:hover {
+	color: #12232E;
+	background-color: #007CC7;
+}
+
+.about-article {
+	background-color: #203647 ;
+	color: #EEFBFB;
+	font-size: 8vw;
+}
+
+
+.profile {
+	transition:.3s;
+}
+
+.profile:hover {
+	transform: scale(1.25);
+}
+
+.desc {
+	text-align: center;
+	margin-top: 20px;
 }
